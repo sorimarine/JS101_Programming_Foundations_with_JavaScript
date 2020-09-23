@@ -1,0 +1,1 @@
+This repository houses my assignments and test codes for Launch School course JS101.
