@@ -1,0 +1,11 @@
+{
+  "welcome": "Welcome to the Mortgage Calculator!",
+  "loanAmount": "Enter the loan amount: ",
+  "APR": "Enter the APR (0-100): ",
+  "durationInMonths": "Enter the loan duration in months",
+  "invalidInput": "Invalid input! Input must be valid positive numbers!",
+  "invalidAPR": "Invalid input! APR must greater than 0 and less than or equal to 100.",
+  "again": "Would you like to do another calculation? (y/n)",
+  "invalidAgain": "Invalid input! type 'y' or 'n'.",
+  "bye": "Thanks for using the Mortgage Calculator. Good Bye!"
+}
